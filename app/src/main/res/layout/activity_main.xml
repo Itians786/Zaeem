@@ -44,6 +44,15 @@
         android:textColor="@color/colorAccent"
         android:backgroundTint="@color/colorPrimary"
         />
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Sing Up"
+        android:textSize="30sp"
+        android:layout_marginLeft="40dp"
+        android:textColor="@color/colorAccent"
+        android:backgroundTint="@color/colorPrimary"
+        />
 
 </LinearLayout>
 </RelativeLayout>
